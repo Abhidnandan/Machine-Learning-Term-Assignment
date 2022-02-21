@@ -12,7 +12,7 @@ a) to learn to identify machine learning techniques appropriate for a particular
 # a) Investigate the performance of a number of machine learning procedures on this dataset :
 Using the data in the file CE802_P2_Data.csv contained in the CE802_P2_Data.zip archive, you are required to perform a comparative study of the following machine learning proce- dures:
 
-***a Decision Tree classifier;***
+*a Decision Tree classifier;
 
 ***at least two more ML technique to predict if the hotel will make a profit.***
 
